@@ -1,5 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Roboto+Slab&display=swap');
+
 * {
-    font-family: cursive;
     box-sizing: border-box;
 }
 
@@ -66,7 +67,7 @@ p {
     font-size: 1.8rem;
     font-weight: bold;
     color: #353434;
-    text-shadow: 2px 2px gray;
+    /* text-shadow: 2px 0px gray; */
 }
 
 form {
